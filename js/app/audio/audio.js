@@ -9,7 +9,7 @@ define(['app/eventmanager', 'app/audio/webaudioprovider', 'app/audio/htmlaudiopr
 	var playingMusic = false;
 	var longloadTimer = false;
 	var playingBossMusic = false;
-	var CDN_PATH = window.location.protocol+"//"+window.location.host+"/Gridland/";
+	var CDN_PATH = "//cdn.jsdelivr.net/gh/saigaocy/Gridland/";
 	
 	var sounds = {
 		DayMusic: {
