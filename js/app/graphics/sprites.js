@@ -1,6 +1,6 @@
 define(function() {
 
-	var CDN_PATH = window.location.protocol+"//"+window.location.host+"/Gridland/";
+	var CDN_PATH = "//cdn.jsdelivr.net/gh/saigaocy/Gridland/";
 	var spriteinfo = {
 		// Buildings
 		blacksmith: ['buildings', 0],
