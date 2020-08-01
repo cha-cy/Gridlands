@@ -23,4 +23,4 @@ requirejs.config({
 });
 
 // Load the main module to start the game
-requirejs(["//cdn.jsdelivr.net/gh/saigaocy/Gridland/app/main"]);
+requirejs(["//cdn.jsdelivr.net/gh/saigaocy/Gridland/app/main.js"]);
