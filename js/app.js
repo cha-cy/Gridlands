@@ -1,5 +1,5 @@
 requirejs.config({
-	baseUrl: "js/lib",
+	baseUrl: "//cdn.jsdelivr.net/gh/saigaocy/Gridland/js/lib",
 	shim: {
 		"google-analytics": {
 			exports: "ga"
@@ -23,4 +23,4 @@ requirejs.config({
 });
 
 // Load the main module to start the game
-requirejs(["app/main"]);
+requirejs(["//cdn.jsdelivr.net/gh/saigaocy/Gridland/app/main"]);
