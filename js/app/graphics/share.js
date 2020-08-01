@@ -1,5 +1,5 @@
 define(function() {
-	var host = window.location.protocol+"//"+window.location.host+"/Gridland/";
+	var host = "//cdn.jsdelivr.net/gh/saigaocy/Gridland/";
 	var SITE_URL = encodeURIComponent(+host);
 
 	var _el = null;
